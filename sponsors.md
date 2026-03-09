@@ -49,6 +49,30 @@ title: Sponsors
   </div>
   
   <div class="sponsor-card">
+    <a href="http://eng.ksme.or.kr/" target="_blank" rel="noopener">
+      <img src="{{ site.baseurl }}/assets/images/sponsors/KSME.jpg"
+           alt="KSME logo"
+           class="sponsor-logo">
+    </a>
+    <h3 class="sponsor-name">Korean Society of Mechanical Engineers</h3>
+    <a href="http://eng.ksme.or.kr/" target="_blank" class="sponsor-link">
+      http://eng.ksme.or.kr/
+    </a>
+  </div>
+  
+  <div class="sponsor-card">
+    <a href="https://www.gist.ac.kr/en/main.html" target="_blank" rel="noopener">
+      <img src="{{ site.baseurl }}/assets/images/sponsors/GIST.jpg"
+           alt="GIST logo"
+           class="sponsor-logo">
+    </a>
+    <h3 class="sponsor-name">Gwangju Institute of Science and Technology</h3>
+    <a href="https://www.gist.ac.kr/en/main.html" target="_blank" class="sponsor-link">
+      https://www.gist.ac.kr/
+    </a>
+  </div>
+  
+  <div class="sponsor-card">
     <a href="https://dmref.org/" target="_blank" rel="noopener">
       <img src="{{ site.baseurl }}/assets/images/sponsors/nsf-dmref.webp"
            alt="nsf dmref logo"
